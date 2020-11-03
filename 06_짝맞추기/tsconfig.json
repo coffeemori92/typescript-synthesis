@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["DOM", "ES2020"]
+  },
+  "include": [
+    "index.ts"
+  ]
+}
