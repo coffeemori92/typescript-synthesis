@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["ES2020", "DOM"],
+    "typeRoots": ["./00_types"]
+  },
+  "include": ["example.ts", "./00_types"]
+}
